@@ -16,7 +16,7 @@ Install from the Cursor Marketplace, or add this to your Cursor MCP settings:
 }
 ```
 
-No API key or configuration is needed.
+No API key or configuration is needed. Signing in is optional and only adds the three `get_my_*` tools.
 
 ## Tools
 
@@ -30,6 +30,7 @@ No API key or configuration is needed.
 - `get_charging_gaps`: Highway charging gaps
 - `get_corridor_chargers`: Fast chargers on a corridor in driving order
 - `get_nevi_status`: Stations meeting federal NEVI minimums
+- `get_my_saved_stations`, `get_my_trips`, `get_my_alerts`: The user's own saved stations, trips and alerts (optional OAuth sign-in)
 
 ## Example prompts
 
