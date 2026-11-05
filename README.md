@@ -20,7 +20,7 @@ No API key or configuration is needed. Signing in is optional and only adds the 
 
 ## Tools
 
-- `search_stations`: Search by city, state, network, connector, speed or live availability
+- `search_stations`: Search by city, state, network, connector or speed
 - `get_nearest_stations`: Nearest stations to a point
 - `get_station_details`: Details for one station
 - `get_city_charging_stats`: City charging statistics
